@@ -11,6 +11,8 @@ A data analysis of the key collector car auctions in the US and Europe, comparin
 - **The difference is significant.** Mann-Whitney U on model year: p < 0.001. Chi-square of era against edition: p = 0.002, Cramér's V = 0.36.
 - **The high end grew fastest.** Monterey went from $400m to $756m, Paris rose 49% and Amelia 43%. Arizona and RM Sotheby's London were flat.
 
+- **The cars have moved faster than the collectors.** Hagerty's data shows younger generations asking for more quotes and wanting collector cars more, but boomers still hold 52% of insured cars and their share of new applications rose in 2025. The market looks like it is being handed on, not replaced.
+
 ![Sale totals](images/sale_totals.png)
 
 ## Data
@@ -22,7 +24,7 @@ A data analysis of the key collector car auctions in the US and Europe, comparin
 | RM Sotheby's Arizona | January 2026 | January 2023 | Cars over about $1m |
 | RM Sotheby's Paris | January 2026 | February 2023 | Top 15 |
 
-Collected by hand from public results: auction-house press releases, Hagerty's auction reports, classic-car-auctions.info and classic.com. Prices include buyer's premium.
+Collected by hand from public results (collector generations from Hagerty's published data): auction-house press releases, Hagerty's auction reports, classic-car-auctions.info and classic.com. Prices include buyer's premium.
 
 ## Notebooks
 
@@ -32,10 +34,19 @@ Collected by hand from public results: auction-house press releases, Hagerty's a
 | [02_cleaning_and_features](notebooks/02_cleaning_and_features.ipynb) | A like-for-like sample (67 lots each edition), eras and price features |
 | [03_eda](notebooks/03_eda.ipynb) | Sale totals, value by era, model year shift, year against price |
 | [04_hypothesis_testing](notebooks/04_hypothesis_testing.ipynb) | Mann-Whitney U, chi-square with Cramér's V, bootstrap intervals |
+| [05_collector_demographics](notebooks/05_collector_demographics.ipynb) | Context: collectors by generation, and whose teenage years the top lots come from |
 
 ![Model year shift](images/model_year_shift.png)
 
 ![Top lots by model year and price](images/year_vs_price.png)
+
+## Who are the collectors?
+
+No auction house publishes buyer ages, so notebook 05 puts the published figures (Hagerty insurance and survey data) beside our results. It also gives each top lot the generation that was 15 when the car was new: nearly two-thirds of top-lot value now comes from the teenage years of Gen X and younger, up from about a quarter in 2023.
+
+![Collectors by generation](images/collector_generations.png)
+
+![Top-lot value by generation](images/poster_generation.png)
 
 ## Limitations
 
@@ -43,6 +54,7 @@ Collected by hand from public results: auction-house press releases, Hagerty's a
 - Hand-collected public data; sources count slightly differently.
 - Four sales and two editions cannot separate a lasting trend from the mix of cars consigned in a given year.
 - Paris runs against the trend on value share: its 2023 sale was led by a new $10.7m Bugatti.
+- Collector ages come from Hagerty's published figures, which cover its own customers and mostly the US.
 - Goodwood is not compared (no comparable 2026 results published), nor is Broad Arrow Zürich (first held in 2025).
 
 ## Running it
@@ -63,8 +75,8 @@ Python, pandas, NumPy, SciPy, Matplotlib, seaborn, Jupyter.
 
 ```
 data/
-  raw/          top_lots.csv, sale_totals.csv
+  raw/          top_lots.csv, sale_totals.csv, collector_generations.csv
   processed/    cleaned outputs from notebook 02
 images/         figures saved by the notebooks
-notebooks/      01 to 04
+notebooks/      01 to 05
 ```

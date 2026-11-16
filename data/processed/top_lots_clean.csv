@@ -1,0 +1,135 @@
+week,period,house,year,car,price_usd,when,era,decade,price_m,log_price,built_1980_on
+Monterey,2026,Gooding Christie's,1964,Shelby Cobra Daytona Coupe,42905000,Now,1946-69,1960,42.905,7.6325079063077235,False
+Monterey,2026,RM Sotheby's,1996,McLaren F1 GTR,34655000,Now,1980s-90s,1990,34.655,7.539765903183112,True
+Monterey,2023,Bonhams,1967,Ferrari 412P Berlinetta,30255000,Then,1946-69,1960,30.255,7.480797157268447,False
+Monterey,2026,RM Sotheby's,1963,Chevrolet Corvette Grand Sport,18705000,Now,1946-69,1960,18.705,7.271957712534224,False
+Monterey,2026,Gooding Christie's,1963,Ferrari 250 P,18705000,Now,1946-69,1960,18.705,7.271957712534224,False
+Monterey,2026,RM Sotheby's,2023,Ferrari Daytona SP3,17825000,Now,2000s on,2020,17.825,7.251029538523903,True
+Monterey,2026,Mecum,1996,Ferrari F50,14575000,Now,1980s-90s,1990,14.575,7.163608563431052,True
+Monterey,2023,RM Sotheby's,1957,Jaguar XKSS,13205000,Then,1946-69,1950,13.205,7.120738405542943,False
+Monterey,2026,RM Sotheby's,1995,Ferrari F50,12105000,Now,1980s-90s,1990,12.105,7.082964793777752,True
+Monterey,2026,Mecum,2003,Ferrari Enzo,12100000,Now,2000s on,2000,12.1,7.08278537031645,True
+Monterey,2026,RM Sotheby's,1985,Ferrari 288 GTO,11555000,Now,1980s-90s,1980,11.555,7.062769949815128,True
+Monterey,2026,Broad Arrow,2003,Ferrari Enzo,10675000,Now,2000s on,2000,10.675,7.028367883697062,True
+Monterey,2023,Gooding,1962,Ferrari 250 GT SWB Berlinetta,9465000,Then,1946-69,1960,9.465,6.976120618299816,False
+Monterey,2026,RM Sotheby's,2003,Ferrari Enzo,9410000,Now,2000s on,2000,9.41,6.973589623427257,True
+Monterey,2026,RM Sotheby's,1935,Duesenberg Model JN Convertible Coupe,9080000,Now,Pre-war,1930,9.08,6.958085848521085,False
+Monterey,2026,Broad Arrow,2025,Bugatti Mistral Roadster,8805000,Now,2000s on,2020,8.805,6.944729360303295,True
+Monterey,2026,RM Sotheby's,2015,Ferrari LaFerrari,8695000,Now,2000s on,2010,8.695,6.939269586338732,True
+Monterey,2026,RM Sotheby's,1991,Ferrari F40,8365000,Now,1980s-90s,1990,8.365,6.922465945298414,True
+Monterey,2026,RM Sotheby's,2025,Bugatti Mistral,8310000,Now,2000s on,2020,8.31,6.919601023784111,True
+Monterey,2026,Gooding Christie's,1961,Ferrari 250 GT SWB Competizione,8090000,Now,1946-69,1960,8.09,6.907948521612273,False
+Monterey,2026,RM Sotheby's,2024,Pagani Huayra Roadster Executor,8035000,Now,2000s on,2020,8.035,6.904985881099363,True
+Monterey,2026,RM Sotheby's,1989,Porsche 959 Sport,7045000,Now,1980s-90s,1980,7.045,6.847880997445375,True
+Monterey,2023,RM Sotheby's,1959,Ferrari 410 Superamerica Series III,6605000,Then,1946-69,1950,6.605,6.819872821950546,False
+Monterey,2026,RM Sotheby's,1937,Delage D8-120 S Aerodynamic Coupe,5780000,Now,Pre-war,1930,5.78,6.7619278384205295,False
+Monterey,2023,RM Sotheby's,1937,Bugatti Type 57SC Tourer by Corsica,5395000,Then,Pre-war,1930,5.395,6.731991449018929,False
+Monterey,2023,RM Sotheby's,1967,Ferrari 275 GTB/4 (McQueen),5395000,Then,1946-69,1960,5.395,6.731991449018929,False
+Monterey,2026,RM Sotheby's,1937,Bugatti Type 57SC Atalante,4955000,Now,Pre-war,1930,4.955,6.6950436588212945,False
+Monterey,2026,RM Sotheby's,1928,Mercedes-Benz 680 S Torpedo-Sport,4955000,Now,Pre-war,1920,4.955,6.6950436588212945,False
+Monterey,2026,RM Sotheby's,1958,Ferrari 250 GT Cabriolet Series I,4927500,Now,1946-69,1950,4.9275,6.692626632951481,False
+Monterey,2026,RM Sotheby's,2024,Ferrari 812 Competizione A Tailor Made,4845000,Now,2000s on,2020,4.845,6.685293781386784,True
+Monterey,2023,Gooding,1914,Mercer Type 35-J Raceabout,4790000,Then,Pre-war,1910,4.79,6.680335513414564,False
+Monterey,2026,RM Sotheby's,2024,Aston Martin Valkyrie Spider,4735000,Now,2000s on,2020,4.735,6.675319983339293,True
+Monterey,2026,Bonhams,2024,Bugatti Chiron Super Sport,4570000,Now,2000s on,2020,4.57,6.65991620006985,True
+Monterey,2023,Gooding,1933,Alfa Romeo 8C 2300 Cabriolet,4515000,Then,Pre-war,1930,4.515,6.6546577546495245,False
+Monterey,2026,RM Sotheby's,1934,Packard 1108 Twelve Sport Phaeton,4295000,Now,Pre-war,1930,4.295,6.632963168167261,False
+Monterey,2026,Gooding Christie's,1952,Ferrari 225 Sport Tuboscocca Spider,4295000,Now,1946-69,1950,4.295,6.632963168167261,False
+Monterey,2026,Gooding Christie's,1959,Maserati Tipo 61 Birdcage,4240000,Now,1946-69,1950,4.24,6.627365856592733,False
+Monterey,2023,Broad Arrow,1995,Ferrari F50,4240000,Then,1980s-90s,1990,4.24,6.627365856592733,True
+Monterey,2023,RM Sotheby's,2003,Ferrari Enzo,4075000,Then,2000s on,2000,4.075,6.610127613075996,True
+Monterey,2026,Broad Arrow,1968,Lamborghini Miura P400 S,4075000,Now,1946-69,1960,4.075,6.610127613075996,False
+Monterey,2023,Gooding,1912,Simplex 50 HP Toy-Tonneau,4075000,Then,Pre-war,1910,4.075,6.610127613075996,False
+Monterey,2023,Broad Arrow,1985,Ferrari 288 GTO,3910000,Then,1980s-90s,1980,3.91,6.592176757395867,True
+Monterey,2023,RM Sotheby's,1967,Ferrari 275 GTB/4 Del Rio,3800000,Then,1946-69,1960,3.8,6.57978359661681,False
+Monterey,2023,Gooding,1972,Lamborghini Miura P400 SV,3580000,Then,1970s,1970,3.58,6.553883026643875,False
+Monterey,2023,Gooding,1966,Ferrari 275 GTB,3415000,Then,1946-69,1960,3.415,6.533390708017551,False
+Monterey,2023,Mecum,1966,Ferrari 275 GTB/6C Alloy,3410000,Then,1946-69,1960,3.41,6.532754378992498,False
+Monterey,2023,RM Sotheby's,1933,Packard Twelve Convertible Victoria,3305000,Then,Pre-war,1930,3.305,6.519171463821659,False
+Monterey,2023,RM Sotheby's,1990,Ferrari F40,3305000,Then,1980s-90s,1990,3.305,6.519171463821659,True
+Monterey,2023,RM Sotheby's,1965,Ferrari 275 GTB/6C Alloy,3305000,Then,1946-69,1960,3.305,6.519171463821659,False
+Monterey,2023,Gooding,1967,Ferrari 275 GTB/4,3277500,Then,1946-69,1960,3.2775,6.515542700362122,False
+Monterey,2023,Gooding,1962,Ferrari 400 Superamerica Aerodinamico,3167500,Then,1946-69,1960,3.1675,6.500716623555479,False
+Monterey,2023,Gooding,1952,Ferrari 340 America Berlinetta,3085000,Then,1946-69,1950,3.085,6.489255168369261,False
+Monterey,2023,Gooding,1991,Ferrari F40,3085000,Then,1980s-90s,1990,3.085,6.489255168369261,True
+Monterey,2023,RM Sotheby's,1935,Duesenberg Model SJ LaGrande Phaeton,3030000,Then,Pre-war,1930,3.03,6.481442628502305,False
+Monterey,2023,Gooding,1930,Duesenberg Model J Barrelside Phaeton,2975000,Then,Pre-war,1930,2.975,6.4734869700645685,False
+Monterey,2023,RM Sotheby's,1967,Ferrari 330 GTS,2975000,Then,1946-69,1960,2.975,6.4734869700645685,False
+Monterey,2023,RM Sotheby's,1953,Fiat 8V Berlinetta Zagato,2900000,Then,1946-69,1950,2.9,6.4623979978989565,False
+Monterey,2023,RM Sotheby's,1972,Ferrari 365 GTS/4 Daytona Spider,2865000,Then,1970s,1970,2.865,6.4571246263034086,False
+Monterey,2023,RM Sotheby's,1956,Ferrari 410 Superamerica Series I,2810000,Then,1946-69,1950,2.81,6.44870631990508,False
+Monterey,2023,Broad Arrow,1964,Ferrari 250 GT Lusso,2810000,Then,1946-69,1960,2.81,6.44870631990508,False
+Paris (RM Sotheby's),2023,RM Sotheby's,2022,Bugatti Chiron Profilee,10677742,Then,2000s on,2020,10.677742,7.02847942304652,True
+Paris (RM Sotheby's),2023,RM Sotheby's,2003,Ferrari Enzo,4421572,Then,2000s on,2000,4.421572,6.645576701373792,True
+Paris (RM Sotheby's),2023,RM Sotheby's,1991,Ferrari 643 F1,3992227,Then,1980s-90s,1990,3.992227,6.601215227516272,True
+Paris (RM Sotheby's),2023,RM Sotheby's,1967,Ferrari 275 GTB/4,3378877,Then,1946-69,1960,3.378877,6.528772382602495,False
+Paris (RM Sotheby's),2023,RM Sotheby's,2020,McLaren Speedtail,2581522,Then,2000s on,2020,2.581522,6.411875830501928,True
+Paris (RM Sotheby's),2023,RM Sotheby's,1990,Ferrari F40,2090842,Then,1980s-90s,1990,2.090842,6.320321215447636,True
+Paris (RM Sotheby's),2023,RM Sotheby's,1959,Mercedes-Benz 300 SL Roadster,1906837,Then,1946-69,1950,1.906837,6.280313570326501,False
+Paris (RM Sotheby's),2023,RM Sotheby's,2020,McLaren Senna LM,1747366,Then,2000s on,2020,1.747366,6.2423838810174725,True
+Paris (RM Sotheby's),2023,RM Sotheby's,1969,Lamborghini Miura P400 S,1722832,Then,1946-69,1960,1.722832,6.23624292978104,False
+Paris (RM Sotheby's),2023,RM Sotheby's,1963,Ferrari 250 GT Lusso,1673764,Then,1946-69,1960,1.673764,6.223694222639822,False
+Paris (RM Sotheby's),2023,RM Sotheby's,1965,Alfa Romeo TZ,1243056,Then,1946-69,1960,1.243056,6.09449069416309,False
+Paris (RM Sotheby's),2023,RM Sotheby's,2015,McLaren P1,1170817,Then,2000s on,2010,1.170817,6.068489019665916,True
+Paris (RM Sotheby's),2023,RM Sotheby's,1969,Lamborghini Miura S,1109482,Then,1946-69,1960,1.109482,6.045120260723875,False
+Paris (RM Sotheby's),2023,RM Sotheby's,1978,Lamborghini Countach LP400 S,1000000,Then,1970s,1970,1.0,6.0,False
+Paris (RM Sotheby's),2023,RM Sotheby's,1928,Bugatti Type 43 Roadster,926980,Then,Pre-war,1920,0.92698,5.967070364151684,False
+Paris (RM Sotheby's),2026,RM Sotheby's,1960,Ferrari 250 GT SWB California Spider,17176418,Now,1946-69,1960,17.176418,7.234932600413085,False
+Paris (RM Sotheby's),2026,RM Sotheby's,2004,Ferrari Enzo,9896205,Now,2000s on,2000,9.896205,6.995468683129416,True
+Paris (RM Sotheby's),2026,RM Sotheby's,1997,Ferrari F50,9278074,Now,1980s-90s,1990,9.278074,6.967457832039552,True
+Paris (RM Sotheby's),2026,RM Sotheby's,1985,Ferrari 288 GTO,7148955,Now,1980s-90s,1980,7.148955,6.854242563353265,True
+Paris (RM Sotheby's),2026,RM Sotheby's,2024,Bugatti Bolide,4882474,Now,2000s on,2020,4.882474,6.6886399392744655,True
+Paris (RM Sotheby's),2026,RM Sotheby's,1971,Lamborghini Miura SV,4539068,Now,1970s,1970,4.539068,6.656966688978486,False
+Paris (RM Sotheby's),2026,RM Sotheby's,2009,Mercedes-Benz SLR Stirling Moss,3749233,Now,2000s on,2000,3.749233,6.573942430944335,True
+Paris (RM Sotheby's),2026,RM Sotheby's,2017,Ferrari 488 GTE,3508849,Now,2000s on,2010,3.508849,6.545164679165021,True
+Paris (RM Sotheby's),2026,RM Sotheby's,2003,Ferrari 550 GTC,2409949,Now,2000s on,2000,2.409949,6.3820078520134835,True
+Paris (RM Sotheby's),2026,RM Sotheby's,1962,Mercedes-Benz 300 SL Roadster,1654455,Now,1946-69,1960,1.654455,6.218654959155307,False
+Paris (RM Sotheby's),2026,RM Sotheby's,1954,Mercedes-Benz 300 SL Gullwing,1620114,Now,1946-69,1950,1.620114,6.209545574930912,False
+Paris (RM Sotheby's),2026,RM Sotheby's,2011,Ferrari SA Aperta,1214895,Now,2000s on,2010,1.214895,6.084538744690608,True
+Paris (RM Sotheby's),2026,RM Sotheby's,2002,McLaren MP4-17A,1105005,Now,2000s on,2000,1.105005,6.043364243150085,True
+Paris (RM Sotheby's),2026,RM Sotheby's,1988,Porsche Kremer 962,1036324,Now,1980s-90s,1980,1.036324,6.01549555600148,True
+Paris (RM Sotheby's),2026,RM Sotheby's,1957,Ferrari 250 GT Coupe Boano,926434,Now,1946-69,1950,0.926434,5.966814485223415,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,2014,Ferrari LaFerrari,4075000,Then,2000s on,2010,4.075,6.610127613075996,True
+Arizona (RM Sotheby's),2023,RM Sotheby's,1971,Lamborghini Miura P400 SV,3580000,Then,1970s,1970,3.58,6.553883026643875,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,1967,Ferrari 275 GTB/4,3360000,Then,1946-69,1960,3.36,6.526339277389844,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,1969,Chevrolet Corvette ZL-1 Convertible,3140000,Then,1946-69,1960,3.14,6.496929648073215,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,1966,Ferrari 500 Superfast Series II,2225000,Then,1946-69,1960,2.225,6.347330015316951,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,1992,Ferrari F40,2150000,Then,1980s-90s,1990,2.15,6.332438459915605,True
+Arizona (RM Sotheby's),2023,RM Sotheby's,1958,Mercedes-Benz 300 SL Roadster,1820000,Then,1946-69,1950,1.82,6.260071387985075,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,1987,Porsche 959 Komfort,1682500,Then,1980s-90s,1980,1.6825,6.2259550728960145,True
+Arizona (RM Sotheby's),2023,RM Sotheby's,2017,Ferrari F12tdf,1242500,Then,2000s on,2010,1.2425,6.09429639740537,True
+Arizona (RM Sotheby's),2023,RM Sotheby's,2005,Porsche Carrera GT,1242500,Then,2000s on,2000,1.2425,6.09429639740537,True
+Arizona (RM Sotheby's),2023,RM Sotheby's,1953,Fiat 8V Coupe Ghia,1105000,Then,1946-69,1950,1.105,6.04336227802113,False
+Arizona (RM Sotheby's),2023,RM Sotheby's,1931,Duesenberg Model J LeBaron,1050000,Then,Pre-war,1930,1.05,6.021189299069938,False
+Arizona (RM Sotheby's),2026,RM Sotheby's,2003,Ferrari Enzo,9300000,Now,2000s on,2000,9.3,6.968482948553935,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,1995,Ferrari F50,8805000,Now,1980s-90s,1990,8.805,6.944729360303295,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,2015,Ferrari LaFerrari,5477000,Now,2000s on,2010,5.477,6.738542740928785,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,2005,Porsche Carrera GT,3085000,Now,2000s on,2000,3.085,6.489255168369261,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,1988,Porsche 959,2535000,Now,1980s-90s,1980,2.535,6.403977963669354,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,1993,Porsche 911 Turbo S Lightweight,2480000,Now,1980s-90s,1990,2.48,6.394451680826216,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,2012,Ferrari LaFerrari Prototype P2,2425000,Now,2000s on,2010,2.425,6.384711742938283,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,1929,Duesenberg Model SJ Murphy,1572500,Now,Pre-war,1920,1.5725,6.196590654117307,False
+Arizona (RM Sotheby's),2026,RM Sotheby's,2020,McLaren Senna GTR,1270000,Now,2000s on,2020,1.27,6.103803720955957,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,1994,RUF RCT Evo Widebody,1242500,Now,1980s-90s,1990,1.2425,6.09429639740537,True
+Arizona (RM Sotheby's),2026,RM Sotheby's,1957,Mercedes-Benz 300 SL Roadster,1160000,Now,1946-69,1950,1.16,6.064457989226918,False
+Arizona (RM Sotheby's),2026,RM Sotheby's,1990,Singer 911 Navato,1050000,Now,1980s-90s,1990,1.05,6.021189299069938,True
+Amelia,2023,Gooding,1962,Ferrari 250 GT SWB California Spider,18045000,Then,1946-69,1960,18.045,7.256356886395526,False
+Amelia,2023,RM Sotheby's,2010,Pagani Zonda R,5340000,Then,2000s on,2010,5.34,6.727541257028556,True
+Amelia,2023,RM Sotheby's,1995,Ferrari F50,5065000,Then,1980s-90s,1990,5.065,6.7045794496963,True
+Amelia,2023,RM Sotheby's,1931,Duesenberg Model J Murphy Coupe,4295000,Then,Pre-war,1930,4.295,6.632963168167261,False
+Amelia,2023,RM Sotheby's,1985,Ferrari 288 GTO,3965000,Then,1980s-90s,1980,3.965,6.598243191653623,True
+Amelia,2023,Gooding,1953,Ferrari 250 MM Spider,3525000,Then,1946-69,1950,3.525,6.547159121327417,False
+Amelia,2023,Gooding,1967,Ferrari 275 GTB/4,3525000,Then,1946-69,1960,3.525,6.547159121327417,False
+Amelia,2023,Gooding,1990,Ferrari F40,3085000,Then,1980s-90s,1990,3.085,6.489255168369261,True
+Amelia,2023,RM Sotheby's,1953,Maserati A6GCS/53 Spyder,2590000,Then,1946-69,1950,2.59,6.413299764081252,False
+Amelia,2023,Gooding,1973,Ferrari 365 GTS/4 Daytona Spider,2535000,Then,1970s,1970,2.535,6.403977963669354,False
+Amelia,2026,Gooding Christie's,1960,Ferrari 250 GT SWB California Spider,16505000,Now,1946-69,1960,16.505,7.217615528666331,False
+Amelia,2026,Broad Arrow,2003,Ferrari Enzo,15185000,Now,2000s on,2000,15.185,7.181414796254284,True
+Amelia,2026,RM Sotheby's,1959,Ferrari 250 GT LWB California Spider,7045000,Now,1946-69,1950,7.045,6.847880997445375,False
+Amelia,2026,RM Sotheby's,2015,Ferrari LaFerrari,6880000,Now,2000s on,2010,6.88,6.837588438235511,True
+Amelia,2026,Broad Arrow,2005,Porsche Carrera GT,6715000,Now,2000s on,2000,6.715,6.827046017004734,True
+Amelia,2026,Broad Arrow,1972,Lamborghini Miura P400 SV,6605000,Now,1970s,1970,6.605,6.819872821950546,False
+Amelia,2026,Broad Arrow,1988,Porsche 959 Sport,5505000,Now,1980s-90s,1980,5.505,6.74075732330777,True
+Amelia,2026,RM Sotheby's,1992,Ferrari F40,5230000,Now,1980s-90s,1990,5.23,6.718501688867274,True
+Amelia,2026,RM Sotheby's,2024,Bugatti Bolide,4955000,Now,2000s on,2020,4.955,6.6950436588212945,True
+Amelia,2026,Broad Arrow,2021,Ferrari Monza SP2,4955000,Now,2000s on,2020,4.955,6.6950436588212945,True
